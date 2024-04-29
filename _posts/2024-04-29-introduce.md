@@ -9,4 +9,4 @@ title:  "자기소개_32211599_박노아"
 
 
 
-![my_image](C:\DK_OpenSource_Mid_Term\images\2024-04-29-introduce\my_image.jpg)
+![my_image](..\images\2024-04-29-introduce\my_image.jpg)
