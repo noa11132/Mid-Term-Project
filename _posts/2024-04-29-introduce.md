@@ -40,7 +40,7 @@ title:  " 박노아 자기소개"
 
 ### 취미
 
-취미는 주로 게임과 축구경기 시청이며, 한가지 게임이 아닌 다양한 게임을 즐겨 합니다.
+취미는 주로 게임과 축구경기 시청 및 강아지 산책입니다.
 
 <img src="..\images\2024-04-29-introduce\valorant.jpg" alt="valorant" style="zoom:25%;" />
 
@@ -49,6 +49,4 @@ title:  " 박노아 자기소개"
 ![soccer](..\images\2024-04-29-introduce\soccer.jpg)
 
 
-
-<iframe width="350" height="350" src="https://www.youtube.com/watch?v=6d4d3yRxEok" frameborder="0" allowfullscreen></iframe>
-
+<video src="..\videos\dog.mp4"></video>
