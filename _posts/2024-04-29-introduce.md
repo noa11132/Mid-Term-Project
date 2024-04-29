@@ -38,3 +38,14 @@ title:  " 박노아 자기소개"
 
 
 
+### 취미
+
+취미는 주로 게임과 축구경기 시청이며, 한가지 게임이 아닌 다양한 게임을 즐겨 합니다.
+
+<img src="..\images\2024-04-29-introduce\valorant.jpg" alt="valorant" style="zoom:25%;" />
+
+<img src="..\images\2024-04-29-introduce\lostark.webp" alt="lostark" style="zoom: 67%;" />
+
+![soccer](..\images\2024-04-29-introduce\soccer.jpg)
+
+1
