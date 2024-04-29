@@ -57,3 +57,5 @@ title:  " 박노아 자기소개"
 저에 대한 이야기를 진행하면서 다양한 part에 따른 commit 작업을 수행했습니다.  
 
 아래 사진을 확인하면 template 설정을 위한 commit 작업부터 시작하여 다양한 commit 작업까지 수행한 것을 확인할 수 있습니다.
+
+![commit](..\images\2024-04-29-introduce\commit.png)
