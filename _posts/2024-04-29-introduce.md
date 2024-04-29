@@ -49,3 +49,10 @@ title:  " 박노아 자기소개"
 ![soccer](..\images\2024-04-29-introduce\soccer.jpg)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/6d4d3yRxEok" title="&#39;70m 질주&#39; 손흥민 번리전 현지해설 &quot;그는 월드클래스입니다&quot; #SPORTSTIME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+### 커밋 작업 확인 (최소 15회 이상)
+
+저에 대한 이야기를 진행하면서 part에 따른 다양한 커밋 작업을 수행했습니다. 
+
