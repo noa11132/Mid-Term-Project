@@ -48,4 +48,7 @@ title:  " 박노아 자기소개"
 
 ![soccer](..\images\2024-04-29-introduce\soccer.jpg)
 
-1
+
+
+<iframe width="350" height="350" src="https://www.youtube.com/watch?v=6d4d3yRxEok" frameborder="0" allowfullscreen></iframe>
+
